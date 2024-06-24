@@ -2,10 +2,5 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-        margin: 0;
-        padding: 0;
-}
-.sidebar {
-        overflow: auto
+.container-lg { 
 }
