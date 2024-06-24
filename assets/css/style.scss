@@ -2,5 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.container-lg { 
+.container-lg {
+    max-width: 100%;
 }
