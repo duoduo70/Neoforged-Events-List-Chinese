@@ -1,4 +1,5 @@
 > [!IMPORTANT]
+> 
 > Copyright (c) 2024 plasma (duoduo70)  
 > 以 CC BY-NC-ND 4.0 协议授予你有限权利
 > 
@@ -6,7 +7,8 @@
 > 
 > 为保证翻译的一致性，若您想更改它们，请提交 Pull Request  
 > See: https://github.com/duoduo70/Neoforged-Events-List-Chinese
-
+>
+> 为保证最好的阅读体验，建议前往 nfel.plasma70.com
 ---
 
 要获得更好的阅读体验，
