@@ -8,7 +8,7 @@
 > 为保证翻译的一致性，若您想更改它们，请提交 Pull Request  
 > See: https://github.com/duoduo70/Neoforged-Events-List-Chinese
 >
-> Github 无法正常显示超宽列表，为保证最好的阅读体验，建议前往 [https://nfel.plasma70.com](https://duoduo70.github.io/Neoforged-Events-List-Chinese/)
+> Github 无法正常显示超宽列表，为保证最好的阅读体验，建议前往 https://duoduo70.github.io/Neoforged-Events-List-Chinese/
 ---
 
 不翻译的专有名词：
